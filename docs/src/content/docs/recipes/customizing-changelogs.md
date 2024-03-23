@@ -121,9 +121,9 @@ Now, when running a [`CreateChangeFile`](/reference/config-file/steps/create-cha
 
 ```text
 ? What type of change is this?
-  major
-  minor
   patch
+  minor
+  major
 > note
 [↑↓ to move, enter to select, type to filter]
 ```
